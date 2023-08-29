@@ -19,21 +19,21 @@
                     
                 </div>
                 <div class="mb-3">
-                    <label for="exampleInputEmail1" class="form-label">Email address</label>
+                    <label for="exampleInputEmail1" class="form-label">Correo electrónico</label>
                     <input type="email" class="form-control" id="exampleInputEmail1" name="email">
                     
                 </div>
                 <div class="mb-3">
-                    <label for="exampleInputPassword1" class="form-label">Password</label>
+                    <label for="exampleInputPassword1" class="form-label">Contraseña</label>
                     <input type="password" class="form-control" id="exampleInputPassword1" name="pass">
                 </div>
                 <div class="mb-3">
-                    <label for="exampleInputPassword2" class="form-label">Confirmar Password</label>
+                    <label for="exampleInputPassword2" class="form-label">Confirmar Contraseña</label>
                     <input type="password" class="form-control" id="exampleInputPassword2" name="pass2">
                 </div>
                
                 <button type="submit" class="btn btn-primary">Registrar</button>
-                <button type="submit" class="btn btn-success">Login</button>
+                <button type="submit" class="btn btn-success">Ingresar</button>
             </form>
         </div>
     </div>
